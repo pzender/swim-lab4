@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/d_4"
+        android:title="D4"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/d_6"
+        android:title="D6"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/d_8"
+        android:title="D8"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/d_10"
+        android:title="D10"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/d_12"
+        android:title="D12"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/d_20"
+        android:title="D20"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/other"
+        android:title="Other"
+        app:showAsAction="never" />
+</menu>
